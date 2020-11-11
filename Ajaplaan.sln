@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajaplaan.Android", "Ajaplaan.Android\Ajaplaan.Android.csproj", "{7101C800-9B6A-4CA9-A573-3D502D9C72EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajaplaan", "Ajaplaan\Ajaplaan.csproj", "{ABBFB68C-4652-4BC3-AFBA-76135EEBF227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7101C800-9B6A-4CA9-A573-3D502D9C72EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7101C800-9B6A-4CA9-A573-3D502D9C72EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7101C800-9B6A-4CA9-A573-3D502D9C72EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7101C800-9B6A-4CA9-A573-3D502D9C72EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABBFB68C-4652-4BC3-AFBA-76135EEBF227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBFB68C-4652-4BC3-AFBA-76135EEBF227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBFB68C-4652-4BC3-AFBA-76135EEBF227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBFB68C-4652-4BC3-AFBA-76135EEBF227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
