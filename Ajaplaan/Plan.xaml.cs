@@ -48,8 +48,8 @@ namespace Ajaplaan
             }
             else if (selctTime.Hours.ToString() == "6")
             {
-                img.Source = "night.jpg";
-                Lbl.Text = selctTime.ToString();
+                img.Source = "Coding.jpg";
+                Lbl.Text = "Coding time";
 
             }
             else if (selctTime.Hours.ToString() == "7")
