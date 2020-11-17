@@ -54,38 +54,38 @@ namespace Ajaplaan
             }
             else if (selctTime.Hours.ToString() == "7")
             {
-                img.Source = "night.jpg";
-                Lbl.Text = selctTime.ToString();
+                img.Source = "tea.jpeg";
+                Lbl.Text = "Tea drinking time";
 
             }
             else if (selctTime.Hours.ToString() == "8")
             {
-                img.Source = "night.jpg";
-                Lbl.Text = selctTime.ToString();
+                img.Source = "chill.jpeg";
+                Lbl.Text = "Chilling time";
 
             }
             else if (selctTime.Hours.ToString() == "9")
             {
-                img.Source = "night.jpg";
-                Lbl.Text = selctTime.ToString();
+                img.Source = "reading.jpeg";
+                Lbl.Text = "Reading time";
 
             }
             else if (selctTime.Hours.ToString() == "10")
             {
-                img.Source = "night.jpg";
-                Lbl.Text = selctTime.ToString();
+                img.Source = "dinner.jpg";
+                Lbl.Text = "Dinner time";
 
             }
             else if (selctTime.Hours.ToString() == "11")
             {
-                img.Source = "night.jpg";
-                Lbl.Text = selctTime.ToString();
+                img.Source = "presleep.jpg";
+                Lbl.Text = "Pre-sleep time";
 
             }
             else if (selctTime.Hours.ToString() == "0")
             {
-                img.Source = "night.jpg";
-                Lbl.Text = selctTime.ToString();
+                img.Source = "sleep.jpg";
+                Lbl.Text = "Good Night.";
 
             }
         }
